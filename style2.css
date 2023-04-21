@@ -1,0 +1,69 @@
+body{
+
+    
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+   
+
+   }
+
+
+
+   ul{
+
+    list-style: none;
+    display: flex;
+        margin-bottom: 0;
+   }
+
+    
+
+    .social-icon{
+
+          height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 7px;
+    margin-right: 11px;
+    cursor: pointer;
+      
+    }
+
+    
+
+
+    .social-facebook{
+
+      background-color: #3b5999;
+    }
+
+
+    .social-linkedin{
+
+      background-color: #ad41e6;
+    }
+
+
+    .social-google{
+
+      background-color: #000000;
+    }
+
+   
+
+    .social-icon i{
+
+      transition: 0.4s all;
+    }
+
+    .social-icon:hover i{
+
+      transform: scale(1.1);
+
+    }
+
+
