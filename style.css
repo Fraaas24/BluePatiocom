@@ -337,3 +337,18 @@ a img{
 }
 
 
+/*Footer*/
+
+footer i {
+padding: 15px 10px;
+
+}
+
+footer .btn {
+  background-color: green;
+  color: black;
+}
+
+.footer{
+  color: black;
+}
