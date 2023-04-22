@@ -209,7 +209,7 @@ body{
     animation-fill-mode: forwards;
     pointer-events: none;
 
-    background-color: black;
+    background-color: blue;
 
     transition-property: transform;
     transition-duration: 1s;
