@@ -209,7 +209,7 @@ body{
     animation-fill-mode: forwards;
     pointer-events: none;
 
-    background-color: blue;
+    background-color: skyblue;
 
     transition-property: transform;
     transition-duration: 1s;
@@ -291,7 +291,7 @@ body{
     animation-fill-mode: forwards;
     pointer-events: none;
 
-    background-color: black;
+    background-color: yellow;
 
     transition-property: transform;
     transition-duration: 1s;
